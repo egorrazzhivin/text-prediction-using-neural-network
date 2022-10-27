@@ -1,2 +1,2 @@
-SEP 2022
-This is a neural network that generates different sentences.
+sep 2022
+this is a neural network that generates different sentences.
